@@ -1,0 +1,21 @@
+{
+    "name": "OrpheusRomeo/common-utils-sdk",
+    "description": "php常用方法类库",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "dashwang",
+            "email": "1024245303@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AutoTest\\": "./src"
+        }
+    },
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
