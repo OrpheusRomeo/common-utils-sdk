@@ -8,7 +8,7 @@
  */
 namespace Curl;
 
-class CurlHelper
+class CurlHandeler
 {
     public function __construct()
     {
