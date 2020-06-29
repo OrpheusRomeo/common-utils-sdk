@@ -1,12 +1,13 @@
 {
-    "name": "OrpheusRomeo/common-utils-sdk",
+    "name": "orpheusromeo/common-utils-sdk",
     "description": "php常用方法类库",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
+    "homepage": "https://github.com/OrpheusRomeo/common-utils-sdk",
     "authors": [
         {
-            "name": "dashwang",
+            "name": "PeterRomeoOrpheus",
             "email": "1024245303@qq.com"
         }
     ],
