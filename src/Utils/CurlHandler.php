@@ -4,11 +4,11 @@
  *
  * Author    : wangzenan
  * CreateDate: 2020-06-17 14:00
- * UpdateDate:
+ * UpdateDate: 2020-07-01 11:18
  */
 namespace Onestep;
 
-class CurlHandeler
+class CurlHandler
 {
     public function __construct()
     {
